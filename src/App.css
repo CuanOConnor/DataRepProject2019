@@ -1,0 +1,69 @@
+.mainBG{
+  background-color:#2C2F33;
+}
+
+.exerciseListContainer{
+  color: aliceblue;
+}
+
+.tableBody{
+  color: aliceblue;
+}
+
+.CreateUserContainer{
+  color: aliceblue;
+}
+
+.CreateExerciseContainer{
+  color: aliceblue;
+}
+
+.EditExerciseContainer{
+  color: aliceblue;
+}
+
+.table {
+  border: solid 4px aliceblue;
+  border-radius: 4px;
+}
+
+.CreateExerciseContainer{
+  border: solid 4px aliceblue;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.CreateUserContainer{
+  border: solid 4px aliceblue;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.EditExerciseContainer{
+  border: solid 4px aliceblue;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.button{
+  background-color: black;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: #5C5C5C;
+}
+
+.tableBody a{
+  color: lightcoral;
+}
+
+.tableBody a:hover{
+  color: lightblue;
+  text-decoration: none;
+}
